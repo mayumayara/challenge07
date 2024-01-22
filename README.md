@@ -20,6 +20,8 @@ In this challenge, I had to put into practice everything I learned about HTML
 8. Create a script that declares two variables and displays the result of dividing between them.
 9. Create a script that declares a variable and checks if its value is an even number. If it is, display the message "It is an even number", otherwise, display the message "It is not an even number".
 10. Create a script that declares a variable and checks if its value is an odd number. If it is, display the message "It is an odd number", otherwise, display the message "It is not an odd number".
-#
+
+## Layout
+![Jogo Adivinhação (Copy)](https://github.com/mayumayara/challenge07/assets/120471137/9434a7b8-084c-4285-ad0b-4ca4e026691e)
 
 The challenge in Notion is at this [link](https://www.notion.so/Desafio-Iniciando-com-JavaScript-1f1d5432af144d96a75cb9e9426c5c93?pvs=4).
